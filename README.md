@@ -2,6 +2,8 @@
 
 This is the frontend of a chat application built using **React** and **Vite**. The app is designed to be fast, responsive, and smooth, with features like infinite scrolling for chats and modern UI components.
 
+**Explore the app using the credentials: Username: "Tester", Password: "password"**.
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies](#technologies)
